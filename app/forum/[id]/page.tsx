@@ -1,3 +1,3 @@
 export default function Page() {
-  return <div>Forum</div>
+  return <div>Forum Post</div>
 }
